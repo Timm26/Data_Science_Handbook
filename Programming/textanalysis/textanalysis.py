@@ -8,4 +8,3 @@ def words_count(filepath, words_list):
         if word.lower() in words_list:
             n += 1
     return n
-
